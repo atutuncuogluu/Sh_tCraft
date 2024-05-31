@@ -1,2 +1,2 @@
 # Sh_tCraft
-This is my train for understand the pyopengl and This is Sh_tCraft using by only PyOpenGL and pygame actually i use pygame in 1 function the difficulty here is that almost all operations were done with pyopengl. 
+This is my train for understand the pyopengl and This is Sh_tCraft using by only PyOpenGL and pygame actually i use pygame in 1 function the difficulty here is that almost all operations were done with pyopengl.  There's no specific plan or project; that's why if you don't understand the functions and what they do, it's quite natural. This is actually one of the worst codes I've written so far, but the project had to be completed, and most importantly, it works! :)
